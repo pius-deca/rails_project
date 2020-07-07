@@ -1,0 +1,14 @@
+{
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],    
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.includeLanguages": {"html.erb": "html", "erb": "html"},
+    "ruby.rubocop.onSave": true,
+    "editor.formatOnSaveTimeout": 5000,
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "*.erb": "ruby"
+    },
+}
